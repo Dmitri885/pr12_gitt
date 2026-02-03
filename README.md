@@ -1,4 +1,4 @@
-<img width="1000" height="758" alt="image" src="https://github.com/user-attachments/assets/e0799570-549b-49cd-9ccb-2cbc577b5236" /># pr12_gitt
+<img width="1000" height="758" alt="image" src="https://rosphoto.com/practice/kak_snimat_zhivotnuh-661" /># pr12_gitt
 # 🔥 Мой Проект: pr12_git 🚀
 
 ## Описание проекта
