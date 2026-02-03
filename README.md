@@ -1,4 +1,3 @@
-<img width="1000" height="758" alt="image" src="https://images.techinsider.ru/upload/img_cache/7fa/7fa2188d62d874d50410a694b839d244_cropped_500x400.webp" /># pr12_gitt
 # 🔥 Мой Проект: pr12_git 🚀
 
 ## Описание проекта
@@ -13,7 +12,6 @@
 Я студент Группы Ис-22Б 
 ## Вот фотография Броненосца:
 <img width="1000" height="758" alt="image" src="https://images.techinsider.ru/upload/img_cache/7fa/7fa2188d62d874d50410a694b839d244_cropped_500x400.webp" />
-https://images.techinsider.ru/upload/img_cache/7fa/7fa2188d62d874d50410a694b839d244_cropped_500x400.webp
 
 **Контакт:** kuruch_2000@mail.ru  
 🌍 Следите за мной в соцсетях:  
@@ -33,8 +31,9 @@ https://images.techinsider.ru/upload/img_cache/7fa/7fa2188d62d874d50410a694b839d
 ---
 
 ## Пример компонента React
+// Компонент React
 function Welcome() {
-  return <h1>Добро пожаловать в AwesomeApp!</h1>;
+  return <h2>Добро пожаловать в **pr12**! 🎉</h2>;
 }
 
 ---
