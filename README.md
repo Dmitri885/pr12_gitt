@@ -1,4 +1,4 @@
-<img width="1000" height="758" alt="image" src="https://rosphoto.com/practice/kak_snimat_zhivotnuh-661" /># pr12_gitt
+<img width="1000" height="758" alt="image" src="https://images.techinsider.ru/upload/img_cache/7fa/7fa2188d62d874d50410a694b839d244_cropped_500x400.webp" /># pr12_gitt
 # 🔥 Мой Проект: pr12_git 🚀
 
 ## Описание проекта
@@ -11,7 +11,7 @@
 
 Привет! Я — Дмитрий Куруч! Вот моя фотография:
 
-![Мое Фото]https://rosphoto.com/practice/kak_snimat_zhivotnuh-661
+![Мое Фото]https://images.techinsider.ru/upload/img_cache/7fa/7fa2188d62d874d50410a694b839d244_cropped_500x400.webp
 
 **Контакт:** kuruch_2000@mail.ru  
 🌍 Следите за мной в соцсетях:  
