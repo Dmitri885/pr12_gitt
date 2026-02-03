@@ -12,7 +12,7 @@
 Привет! Я — Дмитрий Куруч!
 Я студент Группы Ис-22Б 
 ## Вот фотография Броненосца:
-
+<img width="1000" height="758" alt="image" src="https://images.techinsider.ru/upload/img_cache/7fa/7fa2188d62d874d50410a694b839d244_cropped_500x400.webp" />
 https://images.techinsider.ru/upload/img_cache/7fa/7fa2188d62d874d50410a694b839d244_cropped_500x400.webp
 
 **Контакт:** kuruch_2000@mail.ru  
