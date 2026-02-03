@@ -11,7 +11,7 @@
 
 Привет! Я — Дмитрий Куруч!
 Я студент Группы Ис-22Б 
-Вот фотография Броненосца:
+## Вот фотография Броненосца:
 
 https://images.techinsider.ru/upload/img_cache/7fa/7fa2188d62d874d50410a694b839d244_cropped_500x400.webp
 
@@ -31,7 +31,10 @@ https://images.techinsider.ru/upload/img_cache/7fa/7fa2188d62d874d50410a694b839d
 | MongoDB         | База данных                          | 6.0+     |
 
 ---
+
 ## Пример компонента React
 function Welcome() {
   return <h1>Добро пожаловать в AwesomeApp!</h1>;
 }
+
+---
